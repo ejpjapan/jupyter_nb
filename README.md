@@ -1,2 +1,2 @@
 # jupyter_nb
-Jupyter notebooks for volatility trading
+Jupyter notebooks for volatility trading & general utilities
